@@ -1,2 +1,2 @@
 # Kattis
-Kattis.com solutions.
+uvic.kattis.com solutions.
